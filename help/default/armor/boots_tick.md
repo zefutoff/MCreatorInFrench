@@ -1,3 +1,3 @@
-When an entity has the boots equipped, the procedure will be executed each tick.
+Lorsqu'une entité a équipé les bottes, la procédure sera exécutée à chaque tick.
 
-Passed entity is the entity wearing the armor, passed itemstack is the itemstack of the armor.
+L'entité passée est l'entité portant l'armure, la pile d'objets transmise est la pile d'objets de l'armure.

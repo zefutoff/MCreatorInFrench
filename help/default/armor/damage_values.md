@@ -1,2 +1,2 @@
-These numbers define how well the damage to the entity
-will be reduced by a given armor part.
+Ces nombres définissent à quel point les dommages causés à l'entité
+sera réduit d'une pièce d'armure donnée.

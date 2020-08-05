@@ -1,13 +1,13 @@
-This parameter defines armor durability and is effectively applied as:
+Ce paramètre définit la durabilité de l'armure et est effectivement appliqué comme:
 
-* helmet: max_damage_absorbed * 13
-* chestplate: max_damage_absorbed * 15
-* leggings: max_damage_absorbed * 16
-* boots:  max_damage_absorbed * 11
+* casque: max_damage_absorbed * 13
+* plastron: max_damage_absorbed * 15
+* jambières: max_damage_absorbed * 16
+* bottes: max_damage_absorbed * 11
 
-Vanilla armor uses the following factors:
+L'armure vanilla utilise les facteurs suivants:
 
-* leather armor: 5
-* chainmail armor: 15
-* gold armor: 7
-* diamond armor: 33
+* armure en cuir: 5
+* armure de cotte de mailles: 15
+* armure d'or: 7
+* armure de diamant: 33

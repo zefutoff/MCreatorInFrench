@@ -1,4 +1,4 @@
-Toughness is a value that will increase the protection of the armor. 
+La robustesse est une valeur qui augmentera la protection de l'armure.
 
-The diamond armor has a toughness of 2.0 (for a total of 8.0) 
-and the Netherite armor has a toughness of 3.0 (for a total of 12.0).
+L'armure de diamant a une ténacité de 2,0 (pour un total de 8,0)
+et l'armure Netherite a une ténacité de 3,0 (pour un total de 12,0).

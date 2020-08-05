@@ -1,1 +1,1 @@
-The armor layer texture are the textures displayed on the player when he has the armor on him.
+La texture de la couche d'armure sont les textures affichées sur le joueur lorsqu'il a l'armure sur lui.

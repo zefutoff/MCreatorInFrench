@@ -1,10 +1,10 @@
-How common rare enchantments can be enchanted on this armor. 
-The higher the enchantability, the better enchantments you will get when enchanting the armor.
+La fréquence à laquelle des enchantements rares peuvent être enchantés sur cette armure.
+Plus l'enchantabilité est élevée, meilleurs sont les enchantements que vous obtiendrez lors de l'enchantement de l'armure.
 
-Vanilla values:
+Valeurs Vanilla:
 
-* Leather armor: 15
-* Chainmail armor: 12
-* Iron armor: 9
-* Gold armor: 25
-* Diamond armor: 10
+* Armure en cuir: 15
+* Armure de cotte de mailles: 12
+* Armure de fer: 9
+* Armure d'or: 25
+* Armure de diamant: 10
