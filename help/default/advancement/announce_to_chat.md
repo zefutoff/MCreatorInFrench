@@ -1,1 +1,1 @@
-Writes a message in the chat when the player completes the advancement.
+Écrit un message dans le chat lorsque le joueur termine l'avancement.

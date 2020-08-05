@@ -1,5 +1,5 @@
-This is the type of achievement
+C'est le type de réalisation
 
-* Task is a basic achievement type and is most common.
-* Goal is a long term goal which you strive to achieve.
-* Challenge is to test a player or challenge them to something.
+* La tâche est un type de réalisation de base et est la plus courante.
+* L'objectif est un objectif à long terme que vous vous efforcez d'atteindre.
+* Le défi consiste à tester un joueur ou à le défier à quelque chose.

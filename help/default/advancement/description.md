@@ -1,1 +1,1 @@
-This is where you put information about how to achieve the task.
+C'est là que vous mettez des informations sur la façon d'accomplir la tâche.

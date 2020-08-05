@@ -1,2 +1,2 @@
-The player will receive some items from the selected loot table defined in this field 
-when the advancement is completed.
+Le joueur recevra certains objets de la table de butin sélectionnée définie dans ce champ
+lorsque l'avancement est terminé.
