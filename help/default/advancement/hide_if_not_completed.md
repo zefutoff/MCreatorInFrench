@@ -1,1 +1,1 @@
-This parameter hides the advancement in the advancement tab until it's completed.
+Ce paramètre masque l'avancement dans l'onglet Avancement jusqu'à ce qu'il soit terminé.
