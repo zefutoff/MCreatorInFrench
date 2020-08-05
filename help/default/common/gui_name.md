@@ -1,3 +1,1 @@
-Name in GUI is the name of the mod element
-as shown in in-game menus, item tooltips and other
-places where visual name display is possible.
+Le nom en GUI est le nom de l'élément qui sera montré dans les menus en jeu, les descriptions d'objets, et autres endroits où le nom est visible.

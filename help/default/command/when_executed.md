@@ -1,3 +1,3 @@
-When the command is executed, the selected procedure here will be executed.
+Lorsque la commande est exécutée, la procédure sélectionnée ici sera exécutée.
 
-Commands usually run on the server-side only.
+Les commandes ne s'exécutent généralement que côté serveur.

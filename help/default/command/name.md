@@ -1,1 +1,1 @@
-The word after the / that the player has to write to define the command, like gamemode, give, setblock, etc.
+Le mot après le / est ce que le joueur doit écrire pour définir la commande, comme gamemode, give, setblock, etc.

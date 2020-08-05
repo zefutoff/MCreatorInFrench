@@ -1,4 +1,3 @@
-Use this field to define biomes, where the spawning should happen.
+Utilisez ce champ pour définir les biomes, là où la génération doit avoir lieu.
 
-If the list is empty, no biome restriction will be set and spawning will
-occur in all biomes.
+Si la liste est vide, aucune restriction de biome ne sera définie et la génération se produira dans tous les biomes.

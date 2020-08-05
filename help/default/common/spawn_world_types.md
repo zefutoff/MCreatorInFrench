@@ -1,3 +1,3 @@
-Use this field to define where the spawning should happen.
+Utilisez ce champ pour définir l'endroit où le frai doit avoir lieu.
 
-If the list is empty, spawning will be disabled.
+Si la liste est vide, la génération sera désactivé.

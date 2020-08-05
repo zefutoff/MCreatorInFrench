@@ -1,3 +1,3 @@
-Use this field to define on which block(s) the spawning will happen.
+Utilisez ce champ pour définir sur quel(s) bloc(s) la génération aura lieu.
 
-If the list is empty, this option will be disabled, and it will be able to spawn on all blocks.
+Si la liste est vide, cette option sera désactivée et elle pourra apparaître sur tous les blocs.
