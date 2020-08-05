@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": "mcreator-fr",
   "weight": 10,
@@ -9,3 +10,16 @@
     "version": "2020.4-v1"
   }
 }
+=======
+{
+  "id": "mcreator-fr",
+  "weight": 10,
+  "minversion": 202000400000,
+  "maxversion": 202000499999,
+  "info": {
+    "name": "French Translations",
+    "author": "Goldorion, Loic_MaitreDuFeu, Superbroche, Max094_Reikeb",
+    "version": "2020.4-v1"
+  }
+}
+>>>>>>> bec6f21e381e0a88fc8defa9354f746ac67b95f0
