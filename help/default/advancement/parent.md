@@ -1,3 +1,3 @@
-This is the advancement after which your achievement will be listed.
+Il s'agit de l'avancement après lequel votre avancement sera répertoriée.
 
-You can use "No parent: root" will make a new path (new advancement tab).
+Vous pouvez utiliser "No parent: root" pour créer un nouveau chemin (nouvel onglet d'avancement).

@@ -1,1 +1,1 @@
-This is how many experience the player will receive after completing the advancement.
+C'est le nombre de points d'expérience que le joueur recevra après avoir terminé l'avancement.

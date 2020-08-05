@@ -1,1 +1,1 @@
-If your advancement is the first of a new path, you can choose the background of the advancement tab with this option.
+Si votre avancement est le premier d'un nouveau chemin, vous pouvez choisir l'arrière-plan de l'onglet Avancement avec cette option.

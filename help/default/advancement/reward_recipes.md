@@ -1,1 +1,1 @@
-Recipes to unlock when the player completes the advancement.
+Recettes à débloquer lorsque le joueur termine l'avancement.
