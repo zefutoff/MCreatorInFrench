@@ -1,3 +1,3 @@
-Check this option to enable the storage of fluid.
+Cochez cette option pour activer le stockage du fluide.
 
-Blocks need to have tile entity enabled for the fluid tank system to work properly.
+Les blocs doivent avoir le bloc entité  d'activée pour que le système de réservoir de fluide fonctionne correctement.

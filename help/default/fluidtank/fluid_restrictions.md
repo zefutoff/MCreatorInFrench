@@ -1,1 +1,1 @@
-To restrict your block to specific fluids, choose them in this option.
+Pour restreindre votre bloc à des fluides spécifiques, choisissez-les dans cette option.

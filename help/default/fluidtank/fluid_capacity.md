@@ -1,1 +1,1 @@
-It is the maximal milibuckets (1 bucket = 1 000 milibuckets) the block can store.
+Ce sont les millisceaux maximaux (1 sceau = 1 000 millisceaux) que le bloc peut stocker.
