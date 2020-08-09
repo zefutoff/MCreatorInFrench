@@ -1,5 +1,5 @@
-You can write your function name in one word or with several words with underscore(s).
+Vous pouvez écrire le nom de votre fonction en un mot ou en plusieurs mots avec un (des) soulignement (s).
 
-Examples:
-* advancement
+Exemples:
+* avancement
 * advancement_biome_reward
