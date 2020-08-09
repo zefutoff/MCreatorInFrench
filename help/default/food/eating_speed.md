@@ -1,3 +1,3 @@
-Eating speed is the time in ticks that the player takes to eat one item of the food. 
+La vitesse de consommation est le temps en ticks que le joueur prend pour manger un élément de la nourriture.
 
-1 second = 20 ticks
+1 seconde = 20 ticks

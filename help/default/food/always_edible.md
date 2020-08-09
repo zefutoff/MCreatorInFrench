@@ -1,1 +1,1 @@
-Enabling this parameter allows the player to eat the food even in his food bar is full. (eg. Golden Apple)
+L'activation de ce paramètre permet au joueur de manger la nourriture même si sa barre alimentaire est pleine. (par exemple, les pommes dorées)

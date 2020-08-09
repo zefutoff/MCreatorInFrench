@@ -1,1 +1,1 @@
-The procedure will be executed when a player finishes eating the food.
+La procédure sera exécutée lorsqu'un joueur aura fini de manger la nourriture.

@@ -1,1 +1,1 @@
-Food animation is the animation used when the player eats the food.
+L'animation de nourriture est l'animation utilisée lorsque le joueur mange la nourriture.

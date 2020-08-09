@@ -1,3 +1,3 @@
-The nutritional value is how much this food feeds the player. 
+La valeur nutritionnelle est la quantité de nourriture que cette nourriture nourrit le joueur.
 
-1 is 1/2 in the food bar. 20 is the full food bar.
+1 est 1/2 dans la barre de nourriture. 20 est le bar complet.
