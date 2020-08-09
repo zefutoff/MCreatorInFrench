@@ -1,3 +1,3 @@
-Click on the dropdown list and choose the "category" of the loot table. It doesn't define the loot table type. 
+Cliquez sur la liste déroulante et choisissez la "catégorie" de la table de butin. Il ne définit pas le type de table de butin.
 
-It's only to standardize loot table names. Use blocks/registry_name for block loot tables for example.
+C'est uniquement pour normaliser les noms des tables de butin. Utilisez blocks / registry_name pour les tables de butin de bloc par exemple.

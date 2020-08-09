@@ -1,2 +1,1 @@
-If you want to change a vanilla loot table, you have to choose "minecraft", 
-but if you want to create a new loot table for your mod elements, choose "mod".
+Si vous voulez changer une table de butin vanilla, vous devez choisir "minecraft", mais si vous voulez créer une nouvelle table de butin pour vos éléments de mod, choisissez "mod".
