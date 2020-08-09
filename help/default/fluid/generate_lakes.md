@@ -1,3 +1,3 @@
-Select dimension(s) where you want to have lakes with your fluid. 
+Sélectionnez la (les) dimension (s) où vous souhaitez avoir des lacs avec votre fluide.
 
-Leave it blank to deactivate lake spawning of this fluid.
+Laissez ce champ vide pour désactiver le frai du lac de ce fluide.

@@ -1,1 +1,1 @@
-Set a density value in kg/m3 units.
+Définissez une valeur de densité en unités kg / m3.

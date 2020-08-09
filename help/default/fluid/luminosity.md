@@ -1,1 +1,1 @@
-Set the light value if your fluid. Setting the value to 0 will disable the light.
+Réglez la valeur de lumière de votre fluide. Régler la valeur sur 0 désactivera la lumière.

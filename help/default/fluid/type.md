@@ -1,1 +1,1 @@
-Choose the fluid type between Water and Lava
+Choisissez le type de fluide entre l'eau et la lave
