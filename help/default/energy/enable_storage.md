@@ -1,3 +1,3 @@
-Check this option to enable the storage of energy.
+Cochez cette option pour activer le stockage de l'énergie.
 
-Blocks need to have tile entity enabled for the energy system to work properly.
+Les blocs doivent avoir le bloc entité  d'activée pour que le système énergétique fonctionne correctement.

@@ -1,1 +1,1 @@
-This value is the maximal value of energy the energy element (block, item, ...) can extract from another energy element.
+Cette valeur est la valeur maximale d'énergie que l'élément énergétique (bloc, élément, ...) peut extraire d'un autre élément énergétique.

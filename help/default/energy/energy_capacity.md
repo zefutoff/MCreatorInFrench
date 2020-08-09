@@ -1,1 +1,1 @@
-This parameter controls the maximal value of energy your energy element (block, item, ...) can store.
+Ce paramètre contrôle la valeur maximale d'énergie que votre élément énergétique (bloc, objet, ...) peut stocker.

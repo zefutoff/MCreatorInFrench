@@ -1,1 +1,1 @@
-This value is the maximal value of energy the energy element (block, item, ...) can receive from another energy element.
+Cette valeur est la valeur maximale d'énergie que l'élément énergétique (bloc, objet, ...) peut recevoir d'un autre élément énergétique.
