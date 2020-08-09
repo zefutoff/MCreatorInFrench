@@ -1,7 +1,7 @@
-Select the music you want the disc plays inside the jukebox.
+Sélectionnez la musique que vous souhaitez lire sur le disque dans le juke-box.
 
-In order to support all jukebox features such as sound getting more silent with the distance,
-make sure your sound is in MONO format.
+Afin de prendre en charge toutes les fonctionnalités du juke-box telles que le son devient plus silencieux avec la distance,
+assurez-vous que votre son est au format MONO.
 
-If you intend to redistribute the mod, make sure you have the permissions to redistribute the music
-you use!
+Si vous avez l'intention de redistribuer le mod, assurez-vous d'avoir les autorisations pour redistribuer la musique
+tu utilises!

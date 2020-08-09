@@ -1,1 +1,1 @@
-Write the description of your disc. Usually, it's the composer - the name of the music.
+Écrivez la description de votre disque. Habituellement, c'est le compositeur - le nom de la musique.
