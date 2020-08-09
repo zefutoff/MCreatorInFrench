@@ -1,10 +1,9 @@
-Burn Time indicates how many ticks a given fuel will last. 
+Le temps de combustion indique le nombre de ticks qu'un carburant donné durera.
 
-Coal takes 80 seconds to completely burn away and so it is 1600 ticks. (The default setting) This is just enough to smelt 8 items. This means that 20 ticks are 1 second of burning time.
+Le charbon prend 80 secondes pour brûler complètement et donc c'est 1600 tiques. (Le réglage par défaut) C'est juste assez pour faire fondre 8 articles. Cela signifie que 20 ticks représentent 1 seconde de temps de combustion.
 
-To measure how many ticks you need to use, use this equation: 
+Pour mesurer le nombre de graduations à utiliser, utilisez cette équation:
 
-`#of ticks needed = #of items you want the fuel to smelt * 20`
+`# de ticks besoins = # d'objets que vous voulez que votre carburant fond * 20`
 
-Click [here](https://mcreator.net/wiki/burn-time-fuels) for a list of burn times of commonly used items for smelting in Minecraft.
-
+Cliquez [ici] (https://mcreator.net/wiki/burn-time-fuels) pour une liste des temps de combustion des éléments couramment utilisés pour la fusion dans Minecraft.
