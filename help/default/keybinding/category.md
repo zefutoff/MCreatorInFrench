@@ -1,7 +1,6 @@
-Key binding category is category shown in controls section of Minecraft settings.
+La catégorie de liaison de clé est la catégorie affichée dans la section des contrôles des paramètres de Minecraft.
 
-All keybindings belonging to the same category should have the same category key.
+Toutes les combinaisons de touches appartenant à la même catégorie doivent avoir la même clé de catégorie.
 
-To actually set category name, go to **Workspace -> Localization -> 
-Add localization entry** and use _key.category.&lt;your key&gt;_ for the
-entry name and then set the value to desired category name.
+Pour définir réellement le nom de la catégorie, allez dans ** Espace de travail -> Localisation ->
+Ajouter une entrée de localisation ** et utiliser _key.category.&lt;your key&gt;_ pour le nom de l'entrée, puis définissez la valeur sur le nom de la catégorie souhaitée.
