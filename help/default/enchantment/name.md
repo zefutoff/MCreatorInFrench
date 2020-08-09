@@ -1,1 +1,1 @@
-The name of the enchantment as used in-game.
+Le nom de l'enchantement tel qu'il est montré dans le jeu.

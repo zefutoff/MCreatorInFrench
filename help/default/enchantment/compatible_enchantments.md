@@ -1,4 +1,4 @@
-If your enchantment can only be combined with specific enchantments, 
-you need to select them in this property. 
+Si votre enchantement ne peut être combiné qu'avec des enchantements spécifiques,
+vous devez les sélectionner dans cette propriété.
 
-Leave empty to allow combining with any enchantment.
+Laissez vide pour permettre la combinaison avec n'importe quel enchantement.

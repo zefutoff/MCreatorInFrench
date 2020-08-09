@@ -1,1 +1,1 @@
-The minimal level your enchantment supports.
+Le niveau minimal supporté par votre enchantement.

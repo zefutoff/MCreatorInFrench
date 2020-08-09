@@ -1,5 +1,5 @@
-Enchantments with this property are bad (their name are red). 
+Les enchantements avec cette propriété sont mauvais (leur nom est en rouge).
 
-CURSE OF VANISHING and CURSE OF BINDING have this property.
+MALÉDICTION DE DISPARITION et MALÉDICTION DE LIAISON ont cette propriété.
 
-Cure enchantments cannot be removed from the items.
+Les enchantements de malédiction ne peuvent pas être supprimés des objets.

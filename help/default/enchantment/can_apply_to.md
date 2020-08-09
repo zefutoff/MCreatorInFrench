@@ -1,5 +1,5 @@
-Specify the items that can receive the enchantment in the enchanting table here.
+Spécifiez ici les objets qui peuvent recevoir l'enchantement dans la table d'enchantement.
 
-You can also add items that aren't in the enchantment type you have defined.
+Vous pouvez également ajouter des objets qui ne sont pas dans le type d'enchantement que vous avez défini.
 
-In most cases you want to keep this empty (vanilla compatibility detection logic is used).
+Dans la plupart des cas, vous souhaitez garder ce champ vide (une logique de détection de compatibilité vanille est utilisée).

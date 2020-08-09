@@ -1,1 +1,1 @@
-This property will define which item type your enchantment can be applied (in the enchanting table only).
+Cette propriété définira le type d'objet que votre enchantement peut être appliqué (dans la table d'enchantement uniquement).

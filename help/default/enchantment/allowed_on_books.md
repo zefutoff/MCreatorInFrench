@@ -1,3 +1,3 @@
-Check this option to enable an enchanted book of your enchantment. 
+Cochez cette option pour activer le livre enchanté de votre enchantement.
 
-You can't define the Creative tab, as it is defined by the enchantment type you have defined at the beginning.
+Vous ne pouvez pas définir l'onglet Création, car il est défini par le type d'enchantement que vous avez défini au début.

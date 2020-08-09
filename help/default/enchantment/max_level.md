@@ -1,1 +1,1 @@
-The maximal level your enchantment supports.
+Le niveau maximum supporté par votre enchantement.

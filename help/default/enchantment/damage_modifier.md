@@ -1,5 +1,5 @@
-This value will be multiplied with the level of the enchantment (that the item has currently) 
-to get the number of damage your enchantment will protect.
+Cette valeur sera multipliée par le niveau de l'enchantement (que l'objet possède actuellement)
+pour obtenir le nombre de dégâts que votre enchantement protégera.
 
-For example, PROTECTION has a value of 1, so for the first level, the enchantment will 
-protect the player of 1 damage as 1 (level) * 1 (your value) = 1.
+Par exemple, PROTECTION a une valeur de 1, donc pour le premier niveau, l'enchantement
+protégez le joueur de 1 dégât, comme 1 (niveau) * 1 (votre valeur) = 1.
