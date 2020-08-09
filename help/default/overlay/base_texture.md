@@ -1,5 +1,5 @@
-A base texture for your overlay. Other components will be drawn over this texture.
+Une texture de base pour votre overlay. D'autres composants seront dessinés sur cette texture.
 
-This parameter can be used to make "pumpkin" like overlays.
+Ce paramètre peut être utilisé pour faire des overlays comme les citrouilles.
 
-Recommended overlay size is 1920 x 1080 to make is scale properly.
+La taille de overlay recommandée est de 1920 x 1080 pour que la mise à l'échelle soit correcte.

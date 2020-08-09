@@ -1,3 +1,3 @@
-This procedure specifies if the overlay should be shown.
+Cette procédure spécifie quand la overlay doit être affichée.
 
-When the procedure returns true, the overlay will be shown on the screen.
+Lorsque la procédure retourne true, la overlay s'affiche à l'écran.
