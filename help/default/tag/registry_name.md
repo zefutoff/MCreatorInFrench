@@ -1,5 +1,5 @@
-This is the registry name of your tag.
+Il s'agit du nom de registre de votre tag.
 
-The text yuo write in this field is the text you will have to write to be able to use your tag.
+Le texte que vous écrivez dans ce champ est le texte que vous devrez écrire pour pouvoir utiliser votre tag.
 
-When extending vanilla tag groups, use appropriate vanilla tag names here and use minecraft namespace.
+Lors de l'extension des groupes de tags vanilla, utilisez ici les noms de tags vanilla appropriés et utilisez l'espace de noms minecraft.

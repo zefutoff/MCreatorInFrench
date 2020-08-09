@@ -1,1 +1,1 @@
-Elements that belong to this tag group are listed here.
+Les éléments appartenant à ce groupe de tags sont répertoriés ici.

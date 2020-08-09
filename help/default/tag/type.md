@@ -1,7 +1,7 @@
-* **Items:** use this to group multiple items together for recipes, procedures and other purposes
-* **Blocks:** only use the block type if you are targeting a block (_these tags can not be used in recipes_,
-in most cases, you want to use Items tag group; one use case for this tag type is tagging custom log blocks in 
-logs tag group so custom logs work with leaves decay mechanic)
-* **Functions:** This is used for tagging functions into groups. 
-One such group is called "tick" from the "minecraft" namespace. 
-Functions tagged under the "tick" namespace will be executed each game tick.
+* ** Objets: ** utilisez ceci pour regrouper plusieurs objets pour des recettes, des procédures ou d'autres utilisations
+* ** Blocs: ** n'utilisez le type de bloc que si vous ciblez un bloc (ces tags ne peuvent pas être utilisées dans les recettes,
+dans la plupart des cas, vous souhaitez utiliser le groupe de tags Objets; un cas d'utilisation de ce type de tag est le marquage de blocs de bûche personnalisés dans
+groupe de tags logs afin que les logs personnalisés fonctionnent avec le mécanisme de décomposition des feuilles)
+* ** Fonctions: ** Ceci est utilisé pour étiqueter les fonctions en groupes.
+Un de ces groupes est appelé "tick" de l'espace de noms "minecraft".
+Les fonctions marquées sous l'espace de noms "tick" seront exécutées à chaque tick de jeu.
