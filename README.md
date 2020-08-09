@@ -1,6 +1,6 @@
 # MCreatorFrench
 
-##About the plugin
+## About the plugin
 This plugin translates the texts in French for all French speakers.
 
 As MCreator doesn't support translations for everything, this plugin only translates the following elements:
@@ -10,21 +10,24 @@ As MCreator doesn't support translations for everything, this plugin only transl
 * Mod elements (name and description)
 * Workspace categories
 * Global Triggers
-*  Procedure categories
-*Procedure Blocks (Not complete yet)
+* Procedure categories
+* Procedure Blocks (Not complete yet)
 
 We will also translate the in-app tips in future versions.
 
 
-##Translators:
+## Translators:
 * Goldorion
 * Loic_MaitreDuFeu
 * Superbroche
 * Max094_Reikeb
 
 
-##How to install it?
+## Install Instructions:
+### For Windows:
 This plugin can't be installed as other plugins. To install it, you need to go inside the folder you installed MCreator. Then, open the folder named "plugins". Finally, remove of this folder the plugin named "mcreator-localization" (it's the default plugin with English translations) and then, add this plugin. Finally, restart MCreator, and you should see French translations.
+### For Mac:
+To install it, find where you installed the bundled MCreator application. Right click it and chose "show package contents." Then, nagivate to Contents -> MacOS -> plugins. Then, remove of this folder the plugin named "mcreator-localization" (it's the default plugin with English translations) and then, add this plugin's zip file. Finally, restart MCreator, and you should see French translations.
 
 **Warning!!!**
 
