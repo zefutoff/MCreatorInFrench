@@ -12,6 +12,7 @@ As MCreator doesn't support translations for everything, this plugin only transl
 * Global Triggers
 * Procedure categories
 * Procedure Blocks (Not complete yet)
+* In-app helps (Not complete yet)
 
 We will also translate the in-app tips in future versions.
 
